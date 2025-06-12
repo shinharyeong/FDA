@@ -67,10 +67,4 @@ It consists of two practical assignments focused on **Supervised Learning** and 
 - Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
 - Jupyter Notebook
 
----
-
-## 📌 Screenshots & Visuals (optional)
-_Add screenshots here showing decision boundaries, confusion matrices, clustering results, etc._
-
----
 
